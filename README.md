@@ -25,6 +25,7 @@ Developed by:HEMAVATHI N
 Registeration Number :212221040055 */
 
 # activity_main.xml
+```
 
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -65,8 +66,9 @@ Registeration Number :212221040055 */
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
 # MainActivity.java
-
+``
 
 package com.example.gallerycontrol;
 import androidx.appcompat.app.AppCompatActivity;
@@ -127,6 +129,7 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
         imageView.setLayoutParams(new Gallery.LayoutParams(200, 200));
         return imageView;
     } }
+    ``
 # OUTPUT
 ![image](https://github.com/Hemavathi131/EXP-08/assets/128135323/70820350-a57a-4810-86b6-0219bd729bc6)
 
