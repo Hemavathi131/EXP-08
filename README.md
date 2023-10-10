@@ -99,7 +99,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-CustomizedGalleryAdapter.java
+```
+# CustomizedGalleryAdapter.java
+```
 package com.example.gallerycontrol;
 import android.content.Context;
 import android.view.View;
@@ -129,7 +131,7 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
         imageView.setLayoutParams(new Gallery.LayoutParams(200, 200));
         return imageView;
     } }
-    ```
+```
 # OUTPUT
 ![image](https://github.com/Hemavathi131/EXP-08/assets/128135323/70820350-a57a-4810-86b6-0219bd729bc6)
 
