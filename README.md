@@ -26,6 +26,7 @@ Registeration Number :212221040055 */
 
 # activity_main.xml
 
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -65,6 +66,8 @@ Registeration Number :212221040055 */
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 # MainActivity.java
+
+
 package com.example.gallerycontrol;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
